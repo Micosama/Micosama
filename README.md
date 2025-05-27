@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @Micosama
+- 👋 Hello, I’m @Michael osegbo 
 - 👀 I’m interested in learning web dev
 - 🌱 I’m currently learning css and JavaScript 
 - 💞️ I’m stucked there now
